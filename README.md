@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Setup & Run  (Web)
+1. flutter config --enable-web
+2. flutter run -d -chrome
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
